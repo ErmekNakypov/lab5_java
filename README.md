@@ -1,1 +1,2 @@
-# lab5_java
+# Task3
+Create an interface called Animal that has a method makeSound(). Implement this interface in classes Cat, Dog, and Cow. Each class should have its own implementation of the makeSound() method that outputs a message indicating the sound the animal makes. Create another interface called Domestic that extends the Animal interface and has a method isFriendly(). Implement this interface in classes DomesticCat, DomesticDog, and DomesticCow. Each class should have its own implementation of the isFriendly() method that returns true if the animal is friendly and false otherwise.
